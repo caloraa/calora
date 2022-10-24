@@ -32,11 +32,6 @@
   <a href="https://komarev.com/ghpvc/?username=caloraa&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=caloraa&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
-### @thuychaang
-<p align="center">
-  <img src="https://github.com/caloraa/caloraa/blob/master/thuychaang.gif" />
-</p>
-
 ------
 
   ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
