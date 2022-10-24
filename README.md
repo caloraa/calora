@@ -2,7 +2,7 @@
     <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Welcome+To+Github+caloraa"
-            alt="XyChann`"
+            alt="Caloraメ"
         />
     </a>
 </p>
@@ -12,7 +12,7 @@
 
 <p align="center">
 
-- 👤 My name is caloraa
+- 👤 My name is Caloraメ
 - 💌 I am 16 years old 
 - 👨‍💻 I am not programmer
 
